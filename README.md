@@ -1,5 +1,4 @@
-# iOS
-iOS 学习笔记 小组内部技术分享 各种整理 Objecte-C Swift SwiftUI
+# iOS 学习笔记 小组内部技术分享 各种整理 Objecte-C Swift SwiftU
 
 ## 数据结构算法
 [数据结构算法](https://github.com/heliosneverend/awesomeTip)
