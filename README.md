@@ -1,5 +1,12 @@
 # iOS 学习笔记 小组内部技术分享 各种整理 Objecte-C Swift SwiftU
 
+## 性能优化 LucyMonitor 天眼系统(未开源)
+### App启动速度优化以及监控
+将app启动分阶段 分模块 优化
+Main 函数调用后的耗时
+1 定时抓取主线程上的方法调用堆栈，计算一段时间里各个方法的耗时。Time Profile
+2 对objc_msgSend方法进行hook来掌握所有方法的执行耗时。
+
 ## 数据结构算法
 [数据结构算法](https://github.com/heliosneverend/awesomeTip)
 
